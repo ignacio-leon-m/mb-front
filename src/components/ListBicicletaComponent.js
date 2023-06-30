@@ -20,7 +20,7 @@ const ListBicicletaComponent = () => {
 
   return (
     <div className="container">
-      <h2 className='text-center'>Lista de bicicletas para arrendar</h2>
+      <h2 className='text-center mt-2'>Lista de bicicletas para arrendar</h2>
       <table className='table table-bordered table-striped'>
         <thead>
           <tr>
